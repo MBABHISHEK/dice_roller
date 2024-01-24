@@ -1,6 +1,8 @@
 # dice
 
 A new Flutter project.
+![Alt text](https://raw.githubusercontent.com/MBABHISHEK/dice_roller/master/DICE.png)
+
 
 ## Getting Started
 
